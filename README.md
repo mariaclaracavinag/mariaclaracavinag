@@ -1,6 +1,6 @@
 ## Hi 👋
 
-👋| Olá, meu usuário é @Mariaclaracavinag, mas você pode me chamar de Clara!
+👋| Olá, meu usuário é @Mariaclaracavinag, mas, você pode me chamar de Clara!
 
 📸| tenho 16 anos 
 
