@@ -1,12 +1,39 @@
-## Hi 👋
+# 👋 Olá, eu sou a Maria Clara  
 
-👋| Olá, meu usuário é @Mariaclaracavinag, mas, você pode me chamar de Clara!
+💻 Estudante de tecnologia apaixonada por **desenvolvimento web**  
+🎨 Explorando **UI/UX design** e prototipagem no **Figma**  
+⚡ Atualmente aprendendo **Back-end em JavaScript**  
+🚀 Buscando unir criatividade + código para criar projetos de impacto  
 
-📸| tenho 16 anos 
+---
 
-🎀|Estou fazendo curso de Análise e Desenvolvimento de Sistemas, aprendendo Linguagem de Marcação, Banco de Dados, I.O.T, Lógica de Programação, etc.
+## 🔧 Tecnologias e Ferramentas  
+- 🖌️ **Design & Prototipagem:** Figma, Canva  
+- 🎬 **Edição & Conteúdo:** CapCut  
+- 🌐 **Desenvolvimento Web:** HTML, JavaScript (Back-end)  
 
-💐|Pronouns: Ela/Dela--
+---
+
+## 📚 O que estou aprendendo  
+- 🔹 Lógica de programação aplicada a **JavaScript**  
+- 🔹 Criação de APIs e conceitos de **back-end**  
+- 🔹 Princípios de **UI/UX** para interfaces mais eficientes  
+- 🔹 Organização de projetos e versionamento no **GitHub**  
+
+---
+
+## 🚀 Projetos  
+- 🎨 Protótipos de **marcas e logos** no Figma  
+- 🌍 Páginas simples e tabelas em **HTML**  
+- 📽️ Produção de conteúdos visuais e audiovisuais  
+- 💡 Projetos iniciais em **JavaScript** (back-end)  
+
+---
+
+## 📫 Onde me encontrar  
+- 🌐 GitHub: Mariaclaracavinag  
+- 📲 Instagram : Mariaclaracavinag  
+
 
 
 
