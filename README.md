@@ -14,14 +14,6 @@
 
 ---
 
-## 📚 O que estou aprendendo  
-- 🔹 Lógica de programação aplicada a **JavaScript**  
-- 🔹 Criação de APIs e conceitos de **back-end**  
-- 🔹 Princípios de **UI/UX** para interfaces mais eficientes  
-- 🔹 Organização de projetos e versionamento no **GitHub**  
-
----
-
 ## 🚀 Projetos  
 - 🎨 Protótipos de **marcas e logos** no Figma  
 - 🌍 Páginas simples e tabelas em **HTML**  
