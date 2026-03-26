@@ -96,7 +96,7 @@
 ## 💖  
 
 <p align="center">
-  <i>"Design não é só aparência. É como funciona."</i>  
+  <i>"Elegância no design, lógica no código."</i>  
 </p>
 
 
