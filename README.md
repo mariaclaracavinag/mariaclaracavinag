@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,js,react,vscode,PostgreSQL,arduino,git,react,swagger,node.js,pgAdmin" />
+  <img src="https://skillicons.dev/icons?i=figma,html,js,react,vscode,arduino,git,swagger,node.js,pgAdmin,css," />
 </p>
 
 ---
